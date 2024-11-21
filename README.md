@@ -77,8 +77,8 @@ endmodule
 ```
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: M Shivani
-  RegisterNumber: 24003648
+ **Developed by:** M Shivani
+ **RegisterNumber:** 24003648
  
 **Logic symbol & Truthtable**
 
@@ -95,5 +95,6 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 
 **Result:**
+The truth table of the specified logic gates(AND, OR, NOT, NAND, NOR, XOR, XNOR) was successfully implemented and verify using Verilog programming in Quartus II.
 
 
