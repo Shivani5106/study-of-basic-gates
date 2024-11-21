@@ -78,10 +78,11 @@ endmodule
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by: M Shivani
- RegisterNumber: 24003648
+  RegisterNumber: 24003648
  
 **Logic symbol & Truthtable**
 
+![image](https://github.com/user-attachments/assets/b5961ae3-cca4-44b0-b9ce-5843ed23d881)
 
 
 
