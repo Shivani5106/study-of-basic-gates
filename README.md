@@ -63,16 +63,33 @@ Y= A⊕B
 
 
 **PROGRAM**
-
+```
+module exp1de(a,b,c,d,e,x,y,z);
+input a,b;
+output c,d,e,x,y,z;
+assign c = a&b; //and gate
+assign d = a|b; //or gate
+assign e = a^b; 
+assign x = ~(a&b);
+assign y =~(a|b);
+assign z = ~(a^b);
+endmodule
+```
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by: M Shivani
+ RegisterNumber: 24003648
  
 **Logic symbol & Truthtable**
+```
+
+![Screenshot 2024-11-21 112128](https://github.com/user-attachments/assets/0a609e04-dc64-4eaf-a520-ac38b7b29f05)
+```
 
 **RTL realization Output:** 
 
 **RTL**
+
 
 **Result:**
 
